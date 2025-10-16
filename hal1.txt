@@ -6,3 +6,5 @@ hal5-main
 hal6-main
 hal7-main2
 hal8-main2
+hal9-main
+hal10-main
